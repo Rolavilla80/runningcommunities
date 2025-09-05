@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "triathlon-locarno_20250907",
+    "name": "Triathlon Locarno",
+    "type": "mix",
+    "start_date": "2025-09-07",
+    "end_date": "2025-09-07",
+    "place": "nan",
+    "canton": "",
+    "website": "https://www.3locarno.ch/",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "powerman-zofingen_20250907",
+    "name": "Powerman Zofingen",
+    "type": "mix",
+    "start_date": "2025-09-07",
+    "end_date": "2025-09-07",
+    "place": "nan",
+    "canton": "",
+    "website": "https://powerman.ch/",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "triathlon-d-yverdon-les-bains_20250914",
+    "name": "Triathlon d’Yverdon-les-Bains",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "nan",
+    "canton": "",
+    "website": "https://www.triyverdon.ch/les-courses",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "wyfelder-xathlon_20250914",
+    "name": "Wyfelder Xathlon",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "nan",
+    "canton": "",
+    "website": "https://mumagesi-triathlon.ch/wyfelder-xathlon/",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "jungfrau-harder-run-race_20250905",
+    "name": "Jungfrau-Harder Run Race",
+    "type": "mountain",
+    "start_date": "2025-09-05",
+    "end_date": "2025-09-05",
+    "place": "nan",
+    "canton": "",
+    "website": "https://www.jungfrau-marathon.ch/de/",
+    "guide_url": "",
+    "distances_km": [
+      4.4
+    ],
+    "elevation_gain_m": [
+      755.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "jungfrau-marathon_20250906",
+    "name": "Jungfrau Marathon",
+    "type": "mountain",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "nan",
+    "canton": "",
+    "website": "https://www.jungfrau-marathon.ch/de/",
+    "guide_url": "",
+    "distances_km": [
+      42.0
+    ],
+    "elevation_gain_m": [
+      1953.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "43-burgdorfer-stadtlauf_20250906",
+    "name": "43. Burgdorfer Stadtlauf",
+    "type": "mix",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "nan",
+    "canton": "",
+    "website": "https://burgdorfer-stadtlauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      5.0,
+      10.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "23-die-mobiliar-herbstlauf_20250906",
+    "name": "23. die Mobiliar Herbstlauf",
+    "type": "mix",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "Muri, AG",
+    "canton": "",
+    "website": "https://www.herbstlauf.ch/strecken.php",
+    "guide_url": "",
+    "distances_km": [
+      0.3,
+      1.5,
+      2.6,
+      6.4,
+      3.8,
+      14.9,
+      10.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "39-altstaetter-staedtlilauf_20250906",
+    "name": "39. Altstätter Städtlilauf",
+    "type": "mix",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "Altstätten, SG",
+    "canton": "",
+    "website": "https://www.staedtlilauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      0.3,
+      1.1,
+      1.9,
+      4.9,
+      10.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "25-course-p-destre-villeret-chasseral-villeret-vcv_20250906",
+    "name": "25. Course pédestre Villeret - Chasseral - Villeret (VCV)",
+    "type": "mountain",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "Villeret, BE",
+    "canton": "",
+    "website": "https://coursevcv.ch/startseite/",
+    "guide_url": "",
+    "distances_km": [
+      25.6,
+      12.0
+    ],
+    "elevation_gain_m": [
+      668.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "1-d-fi-des-muverans_20250906",
+    "name": "1. Défi des Muverans",
+    "type": "mountain",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "Ovronnaz, VS",
+    "canton": "",
+    "website": "https://defidesmuverans.ch/",
+    "guide_url": "",
+    "distances_km": [
+      60.0
+    ],
+    "elevation_gain_m": [
+      4200.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "1-zofingen-5000_20250906",
+    "name": "1. Zofingen 5000",
+    "type": "mix",
+    "start_date": "2025-09-06",
+    "end_date": "2025-09-06",
+    "place": "Zofingen, AG",
+    "canton": "",
+    "website": "https://powerman.ch/zofingen_5000/",
+    "guide_url": "",
+    "distances_km": [
+      5.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "12-sarnersee-lauf_20250907",
+    "name": "12. Sarnersee Lauf",
+    "type": "mix",
+    "start_date": "2025-09-07",
+    "end_date": "2025-09-07",
+    "place": "Sarnen, OW",
+    "canton": "",
+    "website": "https://www.sarnerseelauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      1.2,
+      0.4,
+      2.0,
+      5.0,
+      10.0,
+      21.1
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-schaffhauser-stadtlauf_20250907",
+    "name": "7. Schaffhauser Stadtlauf",
+    "type": "mix",
+    "start_date": "2025-09-07",
+    "end_date": "2025-09-07",
+    "place": "Schaffausen, SH",
+    "canton": "",
+    "website": "https://schaffhauser-stadtlauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      7.5
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "12-arosa-trailrun_20250913",
+    "name": "12. Arosa Trailrun",
+    "type": "mountain",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "Arosa, GR",
+    "canton": "",
+    "website": "https://arosa-trailrun.ch/",
+    "guide_url": "",
+    "distances_km": [
+      15.0,
+      21.7,
+      32.8,
+      54.3
+    ],
+    "elevation_gain_m": [
+      938.0,
+      1292.0,
+      2074.0,
+      3336.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "35-wisenberglauf_20250913",
+    "name": "35. Wisenberglauf",
+    "type": "mountain",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "Zeglingen, BL",
+    "canton": "",
+    "website": "https://guide.swiss-running.ch/en/events/4918",
+    "guide_url": "",
+    "distances_km": [
+      10.5,
+      5.5
+    ],
+    "elevation_gain_m": [
+      600.0,
+      200.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "15-semi-marathon-des-c-tes-de-l-orbe_20250913",
+    "name": "15. Semi-marathon des Côtes de l'Orbe",
+    "type": "mix",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "Arnex-sur-Orbe, VD",
+    "canton": "",
+    "website": "https://www.semi-marathon-des-cotes-de-l-orbe.ch/",
+    "guide_url": "",
+    "distances_km": [
+      21.1,
+      11.6
+    ],
+    "elevation_gain_m": [
+      225.0,
+      175.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "2-run-for-bears-spendenlauf-arosa-baerenland_20250913",
+    "name": "2. Run for Bears - Spendenlauf Arosa Bärenland",
+    "type": "mountain",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "Arosa, GR",
+    "canton": "",
+    "website": "https://arosalenzerheide.swiss/de/Arosa/Top-Events/Sport/Spendenlauf-Arosa-Baerenland",
+    "guide_url": "",
+    "distances_km": [
+      4.4,
+      9.7,
+      2.0
+    ],
+    "elevation_gain_m": [
+      287.0,
+      449.0,
+      102.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "3-course-des-hameaux_20250913",
+    "name": "3. Course des hameaux",
+    "type": "mix",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "Châtel-St-Denis, FR",
+    "canton": "",
+    "website": "https://www.coursedeshameaux.com/",
+    "guide_url": "",
+    "distances_km": [
+      13.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "28-muensiger-louf_20250913",
+    "name": "28. Muensiger Louf",
+    "type": "mountain",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "nan",
+    "canton": "",
+    "website": "https://www.muensiger-louf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      5.2,
+      10.0,
+      1.75
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-mattmark-memorial-1965_20250913",
+    "name": "7. MATTMARK-MEMORIAL 1965",
+    "type": "mountain",
+    "start_date": "2025-09-13",
+    "end_date": "2025-09-13",
+    "place": "Saastal, VS",
+    "canton": "",
+    "website": "https://www.mattmark-memorial.ch",
+    "guide_url": "",
+    "distances_km": [
+      21.3,
+      8.0,
+      35.9,
+      44.9
+    ],
+    "elevation_gain_m": [
+      877.0,
+      75.0,
+      1822.0,
+      2947.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "45-stedtlilouf-aarberg_20250914",
+    "name": "45. Stedtlilouf Aarberg",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "Aarberg, BE",
+    "canton": "",
+    "website": "https://www.stedtlilouf.ch",
+    "guide_url": "",
+    "distances_km": [
+      10.0,
+      5.0
+    ],
+    "elevation_gain_m": [
+      30.0,
+      20.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "4-maloja-seelauf_20250914",
+    "name": "4. Maloja Seelauf",
+    "type": "mountain",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "Maloja, GR",
+    "canton": "",
+    "website": "https://www.bregaglia.ch/de/aktuell/hauptveranstaltungen/maloja-seelauf",
+    "guide_url": "",
+    "distances_km": [
+      16.0
+    ],
+    "elevation_gain_m": [
+      558.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-stadtlauf-st-gallen_20250914",
+    "name": "7. Stadtlauf St. Gallen",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "St. Gallen, SG",
+    "canton": "",
+    "website": "https://stadtlauf.sg/",
+    "guide_url": "",
+    "distances_km": [
+      21.0,
+      13.0,
+      8.0,
+      5.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "40-roggen-berglauf-oensingen_20250914",
+    "name": "40. Roggen-Berglauf Oensingen",
+    "type": "mountain",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "Oensingen, SO",
+    "canton": "",
+    "website": "https://www.roggenberglauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      10.2
+    ],
+    "elevation_gain_m": [
+      495.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "11-troph-e-de-marchissy_20250914",
+    "name": "11. Trophée de Marchissy",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "Marchissy, VD",
+    "canton": "",
+    "website": "http://www.trophee-de-marchissy.ch",
+    "guide_url": "",
+    "distances_km": [
+      15.0,
+      6.0,
+      4.0
+    ],
+    "elevation_gain_m": [
+      700.0,
+      350.0,
+      90.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "1-la-foul-e-des-2-thielles_20250914",
+    "name": "1. La Foulée des 2 Thielles",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "Le Landeron, NE",
+    "canton": "",
+    "website": "https://www.f2t.ch/",
+    "guide_url": "",
+    "distances_km": [
+      8.9
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "2-felsberger-herbstlauf_20250914",
+    "name": "2. Felsberger Herbstlauf",
+    "type": "mix",
+    "start_date": "2025-09-14",
+    "end_date": "2025-09-14",
+    "place": "Felsberg, GR",
+    "canton": "",
+    "website": "http://felsberger-herbstlauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      10.0,
+      5.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "9-schnebelhorn-panoramatrail-mosnang_20250920",
+    "name": "9. Schnebelhorn-Panoramatrail Mosnang",
+    "type": "mountain",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Mosnang, SG",
+    "canton": "",
+    "website": "https://panoramatrail.ch/",
+    "guide_url": "",
+    "distances_km": [
+      21.5,
+      8.5
+    ],
+    "elevation_gain_m": [
+      989.0,
+      229.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "4-wildstrubel-by-utmb_20250919",
+    "name": "4. Wildstrubel by UTMB",
+    "type": "mountain",
+    "start_date": "2025-09-19",
+    "end_date": "2025-09-19",
+    "place": "Crans-Montana, VS",
+    "canton": "",
+    "website": "https://wildstrubel.utmb.world/fr",
+    "guide_url": "",
+    "distances_km": [
+      11.7,
+      69.1
+    ],
+    "elevation_gain_m": [
+      6476.0,
+      4501.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "4-wildstrubel-by-utmb_20250920",
+    "name": "4. Wildstrubel by UTMB",
+    "type": "mountain",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Crans-Montana, VS",
+    "canton": "",
+    "website": "https://wildstrubel.utmb.world/fr",
+    "guide_url": "",
+    "distances_km": [
+      52.8,
+      10.88
+    ],
+    "elevation_gain_m": [
+      3214.0,
+      466.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "4-wildstrubel-by-utmb_20250920",
+    "name": "4. Wildstrubel by UTMB",
+    "type": "mountain",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Crans-Montana, VS",
+    "canton": "",
+    "website": "https://wildstrubel.utmb.world/fr",
+    "guide_url": "",
+    "distances_km": [
+      24.8
+    ],
+    "elevation_gain_m": [
+      1169.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-sola-basel_20250920",
+    "name": "7. SOLA Basel",
+    "type": "mix",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Münchenstein, BL",
+    "canton": "",
+    "website": "https://www.solabasel.ch",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "36-willisauer-lauf_20250920",
+    "name": "36. Willisauer Lauf",
+    "type": "mix",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Willisau, LU",
+    "canton": "",
+    "website": "http://www.willisauerlauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      12.0
+    ],
+    "elevation_gain_m": [
+      145.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "46-greifenseelauf_20250920",
+    "name": "46. Greifenseelauf",
+    "type": "mix",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Uster, ZH",
+    "canton": "",
+    "website": "http://www.greifenseelauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      21.1,
+      10.0,
+      5.5
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "50-tour-du-val-terbi_20250920",
+    "name": "50. Tour du Val Terbi",
+    "type": "mountain",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Montsevelier, JU",
+    "canton": "",
+    "website": "http://www.valterbimania.ch",
+    "guide_url": "",
+    "distances_km": [
+      10.3
+    ],
+    "elevation_gain_m": [
+      250.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "51-fully-sorniot-trail-des-cabanes-ap-ro-trail-fully-planuit-enfant_20250920",
+    "name": "51. Fully-Sorniot / Trail des Cabanes / Apéro Trail / Fully-Planuit (enfant)",
+    "type": "mountain",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Fully, VS",
+    "canton": "",
+    "website": "https://fully-sorniot.ch/",
+    "guide_url": "",
+    "distances_km": [
+      39.6,
+      7.4,
+      24.1,
+      3.4
+    ],
+    "elevation_gain_m": [
+      3385.0,
+      1640.0,
+      2055.0,
+      673.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "14-les-km-de-chando_20250920",
+    "name": "14. Les KM de Chando",
+    "type": "mountain",
+    "start_date": "2025-09-20",
+    "end_date": "2025-09-20",
+    "place": "Chandolin, VS",
+    "canton": "",
+    "website": "https://kmdc.ch",
+    "guide_url": "",
+    "distances_km": [
+      7.3
+    ],
+    "elevation_gain_m": [
+      1943.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "43-iffiglauf-und-kids-run_20250921",
+    "name": "43. Iffiglauf und Kids-Run",
+    "type": "mountain",
+    "start_date": "2025-09-21",
+    "end_date": "2025-09-21",
+    "place": "Lenk im Simmental, BE",
+    "canton": "",
+    "website": "https://skiclub-lenk.ch/events1",
+    "guide_url": "",
+    "distances_km": [
+      9.3
+    ],
+    "elevation_gain_m": [
+      550.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "19-stralugano_20250927",
+    "name": "19. StraLugano",
+    "type": "mix",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-27",
+    "place": "Lugano, TI",
+    "canton": "",
+    "website": "https://www.stralugano.ch/",
+    "guide_url": "",
+    "distances_km": [
+      5.0,
+      10.0
+    ],
+    "elevation_gain_m": [
+      0.0,
+      30.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "19-stralugano_20250928",
+    "name": "19. StraLugano",
+    "type": "mix",
+    "start_date": "2025-09-28",
+    "end_date": "2025-09-28",
+    "place": "Lugano, TI",
+    "canton": "",
+    "website": "https://www.stralugano.ch/",
+    "guide_url": "",
+    "distances_km": [
+      21.1
+    ],
+    "elevation_gain_m": [
+      40.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "10-humani-trail_20250927",
+    "name": "10. Humani'Trail",
+    "type": "mountain",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-27",
+    "place": "Les Diablerets, VD",
+    "canton": "",
+    "website": "http://www.humanitrail.com/",
+    "guide_url": "",
+    "distances_km": [
+      42.0,
+      25.3,
+      17.0
+    ],
+    "elevation_gain_m": [
+      3000.0,
+      1600.0,
+      850.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "10-humani-trail_20250927",
+    "name": "10. Humani'Trail",
+    "type": "mountain",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-27",
+    "place": "Gstaad",
+    "canton": "",
+    "website": "http://www.humanitrail.com/",
+    "guide_url": "",
+    "distances_km": [
+      100.0
+    ],
+    "elevation_gain_m": [
+      6800.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-trail-du-jura-bernois_20250927",
+    "name": "7. Trail du Jura bernois",
+    "type": "mountain",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-27",
+    "place": "Tramelan, BE",
+    "canton": "",
+    "website": "https://utjb.ch",
+    "guide_url": "",
+    "distances_km": [
+      64.4,
+      45.0,
+      31.0,
+      13.5
+    ],
+    "elevation_gain_m": [
+      3002.0,
+      1941.0,
+      1168.0,
+      602.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-run-mate-by-core-lean_20250927",
+    "name": "7. Run Mate by Core Lean",
+    "type": "mountain",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-27",
+    "place": "Montreux, VD",
+    "canton": "",
+    "website": "https://www.runmate.org/",
+    "guide_url": "",
+    "distances_km": [
+      219.6
+    ],
+    "elevation_gain_m": [
+      3079.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "37-course-des-taleines_20250927",
+    "name": "37. Course des Taleines",
+    "type": "mix",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-27",
+    "place": "Vulliens, VD",
+    "canton": "",
+    "website": "https://www.coursedestaleines.ch",
+    "guide_url": "",
+    "distances_km": [
+      10.0,
+      5.0
+    ],
+    "elevation_gain_m": [
+      290.0,
+      0.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "44-wildspitzlauf_20250928",
+    "name": "44. Wildspitzlauf",
+    "type": "mix",
+    "start_date": "2025-09-28",
+    "end_date": "2025-09-28",
+    "place": "Steinerberg, SZ",
+    "canton": "",
+    "website": "https://www.ktvsteinerberg.com/wildspitzlauf",
+    "guide_url": "",
+    "distances_km": [
+      7.8,
+      2.0
+    ],
+    "elevation_gain_m": [
+      970.0,
+      350.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "46-pfaeffikersee-lauf_20250928",
+    "name": "46. Pfäffikersee-Lauf",
+    "type": "mix",
+    "start_date": "2025-09-28",
+    "end_date": "2025-09-28",
+    "place": "Wetzikon / Kempten, ZH",
+    "canton": "",
+    "website": "https://www.zuerilaufcup.ch/pfaeffiker",
+    "guide_url": "",
+    "distances_km": [
+      12.2
+    ],
+    "elevation_gain_m": [
+      57.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "5-lessoc-tour-du-lac_20250928",
+    "name": "5. Lessoc Tour du Lac",
+    "type": "mix",
+    "start_date": "2025-09-28",
+    "end_date": "2025-09-28",
+    "place": "Lessoc, FR",
+    "canton": "",
+    "website": "https://www.ltdl.ch/",
+    "guide_url": "",
+    "distances_km": [
+      9.2,
+      5.5
+    ],
+    "elevation_gain_m": [
+      300.0,
+      130.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "4-cross-des-papillons_20250928",
+    "name": "4. Cross des Papillons",
+    "type": "mix",
+    "start_date": "2025-09-28",
+    "end_date": "2025-09-28",
+    "place": "Cronay, VD",
+    "canton": "",
+    "website": "https://www.crossdespapillons.ch/",
+    "guide_url": "",
+    "distances_km": [
+      4.59
+    ],
+    "elevation_gain_m": [
+      96.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "1-trail-tarmac-pursuit_20251003",
+    "name": "1. Trail & Tarmac Pursuit",
+    "type": "mountain",
+    "start_date": "2025-10-03",
+    "end_date": "2025-10-03",
+    "place": "Zurich/St. Moritz",
+    "canton": "",
+    "website": "https://trailtarmacpursuit.com/",
+    "guide_url": "",
+    "distances_km": [
+      220.0
+    ],
+    "elevation_gain_m": [
+      7000.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "1-helvetia-backyard-ultra_20251003",
+    "name": "1. Helvetia Backyard Ultra",
+    "type": "mountain",
+    "start_date": "2025-10-03",
+    "end_date": "2025-10-03",
+    "place": "Oberwil-Lieli, AG",
+    "canton": "",
+    "website": "https://helvetiabackyard.ch/",
+    "guide_url": "",
+    "distances_km": [
+      6.7
+    ],
+    "elevation_gain_m": [
+      120.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "18-panoramalauf-bachtel_20251004",
+    "name": "18. PanoramaLauf Bachtel",
+    "type": "mix",
+    "start_date": "2025-10-04",
+    "end_date": "2025-10-04",
+    "place": "Gibswil, ZH",
+    "canton": "",
+    "website": "http://www.panoramalauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      10.4
+    ],
+    "elevation_gain_m": [
+      150.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "91-morat-fribourg_20251005",
+    "name": "91. Morat-Fribourg",
+    "type": "mountain",
+    "start_date": "2025-10-05",
+    "end_date": "2025-10-05",
+    "place": "Fribourg, FR",
+    "canton": "",
+    "website": "https://www.morat-fribourg.ch",
+    "guide_url": "",
+    "distances_km": [
+      17.2,
+      9.7,
+      26.0
+    ],
+    "elevation_gain_m": [
+      388.0,
+      156.0,
+      630.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "7-valser-herbstlauf_20251005",
+    "name": "7. Valser Herbstlauf",
+    "type": "mountain",
+    "start_date": "2025-10-05",
+    "end_date": "2025-10-05",
+    "place": "Vals, GR",
+    "canton": "",
+    "website": "http://www.valser-herbstlauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      12.0
+    ],
+    "elevation_gain_m": [
+      788.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "51-hallwilerseelauf_20251011",
+    "name": "51. Hallwilerseelauf",
+    "type": "mix",
+    "start_date": "2025-10-11",
+    "end_date": "2025-10-11",
+    "place": "Beinwil am See, AG",
+    "canton": "",
+    "website": "http://www.hallwilerseelauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      21.1,
+      10.4,
+      5.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "39-buerenlauf_20251011",
+    "name": "39. Bürenlauf",
+    "type": "mix",
+    "start_date": "2025-10-11",
+    "end_date": "2025-10-11",
+    "place": "Büren an der Aare, BE",
+    "canton": "",
+    "website": "http://www.buerenlauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      11.5,
+      5.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "17-xterra-trail-vall-e-de-joux_20251011",
+    "name": "17. Xterra Trail Vallée de Joux",
+    "type": "mountain",
+    "start_date": "2025-10-11",
+    "end_date": "2025-10-11",
+    "place": "Le Sentier, VD",
+    "canton": "",
+    "website": "http://www.trailvalleedejoux.ch",
+    "guide_url": "",
+    "distances_km": [
+      36.0,
+      22.1
+    ],
+    "elevation_gain_m": [
+      1831.0,
+      775.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "10-ascona-locarno-run_20251011",
+    "name": "10. Ascona-Locarno Run",
+    "type": "mix",
+    "start_date": "2025-10-11",
+    "end_date": "2025-10-11",
+    "place": "Locarno, TI",
+    "canton": "",
+    "website": "https://www.ascona-locarno-run.ch/en/",
+    "guide_url": "",
+    "distances_km": [
+      5.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "69-brienzerseelauf_20251011",
+    "name": "69. Brienzerseelauf",
+    "type": "mix",
+    "start_date": "2025-10-11",
+    "end_date": "2025-10-11",
+    "place": "Bönigen, BE",
+    "canton": "",
+    "website": "https://www.brienzerseelauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      10.0
+    ],
+    "elevation_gain_m": [
+      104.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "10-ascona-locarno-run_20251012",
+    "name": "10. Ascona-Locarno Run",
+    "type": "mix",
+    "start_date": "2025-10-12",
+    "end_date": "2025-10-12",
+    "place": "Locarno, TI",
+    "canton": "",
+    "website": "https://www.ascona-locarno-run.ch/en/",
+    "guide_url": "",
+    "distances_km": [
+      10.0,
+      21.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "69-brienzerseelauf_20251012",
+    "name": "69. Brienzerseelauf",
+    "type": "mix",
+    "start_date": "2025-10-12",
+    "end_date": "2025-10-12",
+    "place": "Bönigen, BE",
+    "canton": "",
+    "website": "https://www.brienzerseelauf.ch/",
+    "guide_url": "",
+    "distances_km": [
+      21.2
+    ],
+    "elevation_gain_m": [
+      351.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "6-berglauf-rinderberg-zweisimmen_20251012",
+    "name": "6. Berglauf Rinderberg Zweisimmen",
+    "type": "mountain",
+    "start_date": "2025-10-12",
+    "end_date": "2025-10-12",
+    "place": "Zweisimmen, BE",
+    "canton": "",
+    "website": "https://www.zweisimmen.ch/inhalt/berglauf-rinderberg",
+    "guide_url": "",
+    "distances_km": [
+      12.8
+    ],
+    "elevation_gain_m": [
+      1156.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "36-napf-marathon_20251012",
+    "name": "36. Napf-Marathon",
+    "type": "mountain",
+    "start_date": "2025-10-12",
+    "end_date": "2025-10-12",
+    "place": "Trubschachen, BE",
+    "canton": "",
+    "website": "https://www.napf-marathon.ch",
+    "guide_url": "",
+    "distances_km": [
+      42.2,
+      42.2,
+      19.8
+    ],
+    "elevation_gain_m": [
+      1504.0,
+      1617.0,
+      1607.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "37-schlosslauf-rapperswil-jona_20251019",
+    "name": "37. Schlosslauf Rapperswil-Jona",
+    "type": "mix",
+    "start_date": "2025-10-19",
+    "end_date": "2025-10-19",
+    "place": "Rapperswil-Jona, SG",
+    "canton": "",
+    "website": "http://www.schlosslauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      5.4,
+      10.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "45-berglauf-arnensee_20251019",
+    "name": "45. Berglauf Arnensee",
+    "type": "mountain",
+    "start_date": "2025-10-19",
+    "end_date": "2025-10-19",
+    "place": "Feutersoey, BE",
+    "canton": "",
+    "website": "https://www.berglauf-arnensee.ch/",
+    "guide_url": "",
+    "distances_km": [
+      11.0
+    ],
+    "elevation_gain_m": [
+      682.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "41-glarner-stadtlauf_20251025",
+    "name": "41. Glarner Stadtlauf",
+    "type": "mix",
+    "start_date": "2025-10-25",
+    "end_date": "2025-10-25",
+    "place": "Glarus, GL",
+    "canton": "",
+    "website": "http://www.glarner-stadtlauf.ch",
+    "guide_url": "",
+    "distances_km": [
+      3.4,
+      1.7
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "4-laui-trail-run-2025_20251025",
+    "name": "4. Laui-Trail-Run 2025",
+    "type": "mix",
+    "start_date": "2025-10-25",
+    "end_date": "2025-10-25",
+    "place": "Reichenburg, SZ",
+    "canton": "",
+    "website": "https://www.screichenburg.ch/clubdesk/www?p=1000077",
+    "guide_url": "",
+    "distances_km": [
+      21.2,
+      12.0
+    ],
+    "elevation_gain_m": [
+      1542.0,
+      1047.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "43-gurtenclassic_20251026",
+    "name": "43. gurtenCLASSIC",
+    "type": "mix",
+    "start_date": "2025-10-26",
+    "end_date": "2025-10-26",
+    "place": "Wabern bei Bern, BE",
+    "canton": "",
+    "website": "https://www.gurtenclassic.ch/",
+    "guide_url": "",
+    "distances_km": [
+      15.0,
+      9.0
+    ],
+    "elevation_gain_m": [
+      562.0,
+      390.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "swisscitymarathon-lucerne_20251026",
+    "name": "SwissCityMarathon - Lucerne",
+    "type": "mix",
+    "start_date": "2025-10-26",
+    "end_date": "2025-10-26",
+    "place": "Lucerne, LU",
+    "canton": "",
+    "website": "https://www.swisscitymarathon.ch/",
+    "guide_url": "",
+    "distances_km": [
+      42.9,
+      21.0,
+      10.3
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "lausanne-marathon_20251026",
+    "name": "Lausanne Marathon",
+    "type": "mix",
+    "start_date": "2025-10-26",
+    "end_date": "2025-10-26",
+    "place": "Lausanne, VD",
+    "canton": "",
+    "website": "http://www.lausanne-marathon.com",
+    "guide_url": "",
+    "distances_km": [
+      42.2,
+      21.2,
+      10.0
+    ],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "https-rundweg-winterthur-ultra-ch_20251026",
+    "name": "https://rundweg-winterthur-ultra.ch/",
+    "type": "mountain",
+    "start_date": "2025-10-26",
+    "end_date": "2025-10-26",
+    "place": "Winterthur, ZH",
+    "canton": "",
+    "website": "https://rundweg-winterthur-ultra.ch/",
+    "guide_url": "",
+    "distances_km": [
+      59.0,
+      42.2
+    ],
+    "elevation_gain_m": [
+      1700.0,
+      1300.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "1-runthrough-trails-ascona-locarno_20251102",
+    "name": "1. RunThrough Trails Ascona - Locarno",
+    "type": "mountain",
+    "start_date": "2025-11-02",
+    "end_date": "2025-11-02",
+    "place": "Ascona, TI",
+    "canton": "",
+    "website": "https://www.runthroughtrails.com/fr/ascona-locarno/",
+    "guide_url": "",
+    "distances_km": [
+      41.6,
+      24.28,
+      3.0
+    ],
+    "elevation_gain_m": [
+      2447.0,
+      1560.0,
+      246.0
+    ],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "grand-raid",
+    "name": "Grand Raid",
+    "type": "mix",
+    "start_date": null,
+    "end_date": null,
+    "place": "nan",
+    "canton": "",
+    "website": "https://grand-raid-bcvs.ch/de/",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  },
+  {
+    "id": "slowup-mountain-albula_20250907",
+    "name": "slowUp Mountain Albula",
+    "type": "mix",
+    "start_date": "2025-09-07",
+    "end_date": "2025-09-07",
+    "place": "nan",
+    "canton": "",
+    "website": "https://slowup.k8s.fastforward.ch/albula/de.html",
+    "guide_url": "",
+    "distances_km": [],
+    "elevation_gain_m": [],
+    "instagram_url": "",
+    "lat": null,
+    "lon": null,
+    "is_multiday": false
+  }
+]
