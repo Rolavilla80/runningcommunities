@@ -1,0 +1,4 @@
+id,club,club_slug,weekday,start_time,duration_min,location_name,lat,lon,pace_groups_min_per_km,language,source_url,active
+the-6-zh-club_tuesday_0615,The 6:ZH Club,the-6-zh-club,tuesday,06:15,40,Bürkliplatz ,47.3661526986072,8.54120409307753,6:00;6:30,,https://the6zhclub.com/,True
+the-6-zh-club_thursday_0615,The 6:ZH Club,the-6-zh-club,thursday,06:15,40,Bürkliplatz ,47.3661526986072,8.54120409307753,6:00;6:30,,https://the6zhclub.com/,True
+the-run-club-zurich_saturday_1000,The Run Club Zurich,the-run-club-zurich,saturday,10:00,40,Zürich Opera House,47.3652254981543,8.5467117571345,5:30;6:00;6:30,,https://therunclubzurich.com/,True
